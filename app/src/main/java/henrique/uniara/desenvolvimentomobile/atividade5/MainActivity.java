@@ -1,4 +1,4 @@
-package henrique.uniara.desenvolvimentomobile.atividade5;
+package henrique.uniara.desenvolvimentomobile.atividade6;
 
 import androidx.appcompat.app.AppCompatActivity;
 
